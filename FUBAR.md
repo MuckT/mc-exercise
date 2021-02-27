@@ -1,2 +1,2 @@
 # THIS IS FUBAR.MD
-# this team ACP'ed their branch second after Ted and Alice
+# this is the team who ACP theirs first
